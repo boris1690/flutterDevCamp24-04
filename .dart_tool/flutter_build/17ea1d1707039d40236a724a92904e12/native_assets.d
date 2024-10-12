@@ -1,0 +1,1 @@
+ /Users/borisninja/Documents/Projects/flutterDevCamp2024/session4/.dart_tool/flutter_build/17ea1d1707039d40236a724a92904e12/native_assets.yaml: 

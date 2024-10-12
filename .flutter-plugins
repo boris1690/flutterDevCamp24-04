@@ -1,0 +1,27 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/borisninja/.pub-cache/hosted/pub.dev/cloud_firestore-5.4.4/
+cloud_firestore_web=/Users/borisninja/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.3.2/
+file_selector_linux=/Users/borisninja/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3/
+file_selector_macos=/Users/borisninja/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+2/
+file_selector_windows=/Users/borisninja/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+3/
+firebase_auth=/Users/borisninja/.pub-cache/hosted/pub.dev/firebase_auth-5.3.1/
+firebase_auth_web=/Users/borisninja/.pub-cache/hosted/pub.dev/firebase_auth_web-5.13.2/
+firebase_core=/Users/borisninja/.pub-cache/hosted/pub.dev/firebase_core-3.6.0/
+firebase_core_web=/Users/borisninja/.pub-cache/hosted/pub.dev/firebase_core_web-2.18.1/
+firebase_storage=/Users/borisninja/.pub-cache/hosted/pub.dev/firebase_storage-12.3.3/
+firebase_storage_web=/Users/borisninja/.pub-cache/hosted/pub.dev/firebase_storage_web-3.10.3/
+flutter_plugin_android_lifecycle=/Users/borisninja/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.22/
+image_picker=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker-1.1.2/
+image_picker_android=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+14/
+image_picker_for_web=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker_for_web-3.0.5/
+image_picker_ios=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.12/
+image_picker_linux=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.1+1/
+image_picker_macos=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.1+1/
+image_picker_windows=/Users/borisninja/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.1+1/
+url_launcher=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher-6.3.0/
+url_launcher_android=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.10/
+url_launcher_ios=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.1/
+url_launcher_linux=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.0/
+url_launcher_macos=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.1/
+url_launcher_web=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3/
+url_launcher_windows=/Users/borisninja/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.2/
