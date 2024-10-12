@@ -6,3 +6,12 @@ A Flutter app UI project for Flutter DevCamp London
 # flutter-dev-camp-firebase
 # flutter-dev-camp-firebase
 # flutterDevCamp24-04
+
+Register Validation
+
+https://github.com/user-attachments/assets/37681155-6720-43e9-ba68-492ef1425600
+
+Forgot password
+
+https://github.com/user-attachments/assets/5c8c0dd1-f1bc-43e3-8546-621ba1ea2191
+
